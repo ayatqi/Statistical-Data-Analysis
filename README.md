@@ -1,4 +1,4 @@
-# Statistical-Data-Analysis
+# Statistical Data Analysis
 
 Two datasets were given : “ppv.csv” which contains 100 vaccination centres’ locations and “people.csv” which consists of 10000 vaccines’ locations. Based on both datasets, we were tasked with matching each person from the “people.csv” file to their nearest vaccine centre. This matching was done by using the address coordinates(latitude and longitude). Our computer specification, ASUS Vivobook has the highest performance and HP Notebook has the lowest performance.
 
